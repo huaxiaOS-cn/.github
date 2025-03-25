@@ -29,7 +29,7 @@
 github仅为一个镜像储存库，如果您需要参与该项目，请转至gitee [https://gitee.com/organizations/huaxiaOS](https://gitee.com/organizations/huaxiaOS)
 # 联系我们：
 
-  邮箱：        1242408274@qq.com
+  邮箱：         mail@huaxiaos.cn
 
   微信联系方式：  hehe52135213
 
