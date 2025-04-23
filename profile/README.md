@@ -1,36 +1,15 @@
-# github仅为一个镜像储存库，如果您需要参与该项目，请转至gitee [https://gitee.com/organizations/huaxiaOS](https://gitee.com/organizations/huaxiaOS)
+如果您需要参与该项目，请转至gitee [https://gitee.com/organizations/huaxiaOS](https://gitee.com/organizations/huaxiaOS)
 # 请转至gitee
 # 关于 华夏系统
 - 我们的愿景：
 
   我们的目标是打造一个开源的操作系统，让更多的人参与到操作系统的开发当中，让更多的人参与到操作系统的开发当中。
-
+  
   做国产的操作系统，让人工智能系统化，让软件认证统一化，让万物互联本地化。
-
+  
   成为未来最为主流的操作系统平台。
-# 招兵买马：
-
-  无论您是刚入校园的大学生，还是正在当牛马的普通程序猿，又或者是行业大牛，我们均欢迎您的加入。
-
-  亲手打造一套属于自己的操作系统，他不香吗?
-
-  我们需要参与以下方向的贡献者：
-
-|类型|任务|
-|--|--|
-|系统开发者 |熟悉操作系统开发或嵌入式开发，熟悉C 与 RUST 语言，参与操作系统的开发|
-|系统测试者|熟悉python，熟悉测试方法，对系统进行测试，参与对操作系统的自动化测试|
-|安全工程师|熟悉脚本，对代码进行安全扫描，构建代码流水，构建门禁系统，对代码进行自动化风格扫描等 参与对项目的质量保证|
-
-  当然，如果您对这些技术并不熟悉，但是想要参与到我们当中也热烈欢迎，互相学习互相进步。
-
-# 贡献代码
-
-github仅为一个镜像储存库，如果您需要参与该项目，请转至gitee [https://gitee.com/organizations/huaxiaOS](https://gitee.com/organizations/huaxiaOS)
+  
 # 联系我们：
-
   邮箱：         mail@huaxiaos.cn
-
-  微信联系方式：  hehe52135213
 
 
